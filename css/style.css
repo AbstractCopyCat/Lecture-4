@@ -1,13 +1,109 @@
+.header-position{
+	margin-left: 30px;
+	margin-top: 30px;
+	margin-bottom: 77px;
+}
+.inline{
+	display: inline;
+}
+.logo{
+	display: inline;
+	margin-right: 50px;
+}
+
+ul {
+	list-style-type: none;
+	display: inline;
+}
+
+li {
+	font-family: "BPG Nino Mtavruli", sans-serif;
+	font-weight: bold;
+	font-size: 22px;
+	display: inline;
+	color: #3d58a6;
+	margin-right: 26px;
+}
+.active {
+	color: #ee4036;
+}
+
+a:link {
+	text-decoration: none;
+}
+
+.banner{
+	
+	width: 1170px;
+	margin: 0 auto;
+	margin-bottom: 125px;
+
+}
+
+.my-section{
+	width: 100%;
+}
+
+.container{
+	width: 1170px;
+	margin: 0 auto;
+
+}
+
+h4{
+	font-family: 'Roboto', sans-serif;
+	font-size: 24px;
+	color: #000000;
+	margin-bottom: 33px;
+}
+h5{
+	font-family: 'Roboto', sans-serif;
+	font-size: 24px;
+	color: #3d58a6;
+	margin-bottom: 18px;
+}
+
+.left-card, .right-card {
+	background-color: #f2f2f2;
+	width: 515px;
+	height: 225px;
+
+	display: inline-block;
+	vertical-align: top;
+
+	padding-top: 18px;
+	padding-left: 30px;
+	padding-bottom: 24px;
+	padding-right: 20px;
+	
+	
+}
+
+.left-card {
+	margin-right: 30px;
+
+
+}
+
+.card{
+	display: inline-block;
+	margin-right: 60px;
+	vertical-align: top
+}
+
+p{
+	font-size: 20px;
+	display: inline-block;
+	width: 320px;
+	height: 143px;
+	vertical-align: top
+}
+
 h2{
 	font-family: "BPG Nino Mtavruli", sans-serif;
 	font-size: 50px;
 }
 h3{
 	font-family: "BPG Ingiri Arial", sans-serif;
-	font-size: 50px;
-}
-
-h4{
-	font-family: 'Roboto', sans-serif;
 	font-size: 50px;
 }
