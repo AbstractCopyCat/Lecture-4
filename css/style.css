@@ -42,6 +42,7 @@ a:link {
 
 .my-section{
 	width: 100%;
+	margin-bottom: 70px;
 }
 
 .container{
@@ -67,10 +68,8 @@ h5{
 	background-color: #f2f2f2;
 	width: 515px;
 	height: 225px;
-
 	display: inline-block;
 	vertical-align: top;
-
 	padding-top: 18px;
 	padding-left: 30px;
 	padding-bottom: 24px;
@@ -97,6 +96,15 @@ p{
 	width: 320px;
 	height: 143px;
 	vertical-align: top
+}
+
+.footer-position{
+	margin-bottom: 40px;
+	margin-left: 110px;
+}
+
+.footer-left{
+	margin-right: 35px;
 }
 
 h2{
