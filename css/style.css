@@ -132,12 +132,12 @@ h3{
 	font-family: "BPG Nino Mtavruli", sans-serif;
 	font-size: 22px;
 	color: #3d58a6;
-
 }
 
 .headline{
 	font-family: "BPG Nino Mtavruli", sans-serif;
 	font-size: 20px;
+	font-weight: bold;
 	margin-bottom: 16px;
 	margin-left: 30px;
 	width: 690px;
@@ -166,3 +166,24 @@ h1{
 	font-family: "BPG Ingiri Arial", sans-serif;
 	font-size: 50px;
 }
+.contact{
+	display: inline-block;
+	width: 100%;
+	margin-bottom: 32px;
+	background-color: #e6e6e6;
+
+}
+.contact-card{
+	margin-top: 65px;
+	margin-right: 30px;
+	margin-bottom: 415px;
+	margin-left: 87px;
+	display: inline-block;
+	vertical-align: top;
+
+}
+.map{
+	display: inline-block;
+	vertical-align: top;
+}
+
